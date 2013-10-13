@@ -6,6 +6,8 @@
  * Modded By Speedy1985 and Heven (C) 2013
  * //////////////
  *
+ * pinctrl (c) 2012 Gert Van Loo
+ *
  * boblight is free software: you can redistribute it and/or modify it
  * under the terms of the GNU General Public License as published by the
  * Free Software Foundation, either version 3 of the License, or
